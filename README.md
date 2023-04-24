@@ -1,4 +1,4 @@
-# AIRFLOW Capstone Project </br>
+# AIRFLOW Project </br>
 
 ## Configuration needed before starting the project
 To make sure that everything works as expected please make the following changes:
